@@ -1,0 +1,15 @@
+{
+    "feature_cols": [
+        "energy",
+        "protein",
+        "total_fat",
+        "sat_fat",
+        "trans_fat",
+        "chol",
+        "carbs",
+        "total_sugar",
+        "added_sugar",
+        "sodium"
+    ],
+    "target_col": "tag"
+}
